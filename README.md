@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Cindi Nishimoto =^.^= </h1>
 <h3 align="left">A curious, sociable woman and a ❤️ Front-End developer student from Brazil, Sao Paulo </h3>
+<h2 align="right"> ![Alt Text](https://i.pinimg.com/originals/48/71/a0/4871a06594edd9e5e1bb5f0fab7e362a.gif) </h2>
 
-![Alt Text](https://i.pinimg.com/originals/48/71/a0/4871a06594edd9e5e1bb5f0fab7e362a.gif)
 
 
 - 😄 Let's connect and share knowledge, friends from the 🌎!!
