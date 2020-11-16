@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/cindinishimoto**
 
-- ⚡ Fun fact **I'm a rock star and a pop diva singer at home and my friends called me the 5th Black Pink's element... haha 🎤✨**
+- ⚡ Fun fact **I'm a rock star and a pop diva singer at home... haha 🎤✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
