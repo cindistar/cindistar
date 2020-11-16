@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Cindi Nishimoto.</h1>
-<h3 align="center">A curious woman and a passionate Front-End developer student from Brazil, Sao Paulo.</h3>
+<h1 align="left">Hi 👋, I'm Cindi Nishimoto =^.^= </h1>
+<h3 align="left">A curious woman and a passionate Front-End developer student from Brazil, Sao Paulo.</h3>
 
 - 🌱 I’m currently learning **Flutter and Web Development ❤️**
 
