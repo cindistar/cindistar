@@ -7,7 +7,7 @@
 
 - 🎓 I have a MBA in Big Data | FIAP 🎲
 
-- 📱  I’m currently learning **Flutter and Web Development 💻**
+- 📱   I’m currently learning **Flutter and Web Development 💻**
 
 - 📫 How to reach me **https://www.linkedin.com/in/cindinishimoto**
 
