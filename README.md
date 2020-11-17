@@ -9,9 +9,9 @@
 
 - 📱   I’m currently learning **Flutter and Web Development 💻**
 
-- 📫 How to reach me **https://www.linkedin.com/in/cindinishimoto**
+- 📫 How to reach me https://www.linkedin.com/in/cindinishimoto
 
-- ⚡ Fun fact **I'm a rock star and a pop diva singer at home... haha 🎤✨**
+- ⚡ Fun fact: I'm a rock star and a pop diva singer at home... haha 🎤✨*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
