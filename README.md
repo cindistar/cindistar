@@ -3,7 +3,7 @@
 <h1 align="left">Hi, I'm Cindi Nishimoto =^.^= </h1>
 <h3 align="left">A curious, sociable gal and a ❤️ Front-End Developer student from Brazil, Sao Paulo </h3>
 
-- 😄 Greetings from Brazil!! 🇧🇷
+- 😄 Greetings from Brazil!! ☀
 
 - 🎓 I have a MBA in Big Data | FIAP 🎲
 
