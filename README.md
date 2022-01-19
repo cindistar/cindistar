@@ -3,14 +3,10 @@
 <h1 align="left">Hi, I'm Cindi Nishimoto =^.^= </h1>
 <h3 align="left">❤️ A Flutter Developer from Brazil, Sao Paulo </h3>
 
-- 😄 Greetings from Brazil!! ☀
-
-- 🎓 I have a MBA in Big Data | FIAP 🎲
-
-- 📱   I’m currently learning **Flutter for Mobile and Web Development 💻**
-
+- 😄 Live in São Paulo, Brazil! ☀
+- 🎓 MBA in Big Data | FIAP 🎲
+- 📱  Currently learning **Flutter for Mobile and Web Development 💻**
 - 📫 How to reach me https://www.linkedin.com/in/cindinishimoto
-
 - ⚡ Fun fact: I'm a rock star and a pop diva singer at home! Lol 🎤✨*
 
 <h3 align="left">Connect with me:</h3>
