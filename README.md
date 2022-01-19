@@ -3,9 +3,9 @@
 <h1 align="left">Hi, I'm Cindi Nishimoto =^.^= </h1>
 <h3 align="left">❤️ A Flutter Developer from Sao Paulo, Brazil </h3>
 
-  - 📍  &nbsp;&nbsp; Live in São Paulo, Brazil <img align="center" src="https://user-images.githubusercontent.com/45148915/150196899-7ec7aadb-d28c-4aa8-abf1-44a81b82fb0d.png" width="20"  height="20" />
+  - 📍  &nbsp;&nbsp;&nbsp;&nbsp; Live in São Paulo, Brazil <img align="center" src="https://user-images.githubusercontent.com/45148915/150196899-7ec7aadb-d28c-4aa8-abf1-44a81b82fb0d.png" width="20"  height="20" />
   - 🎓 &nbsp;&nbsp; MBA in Big Data | FIAP 🎲
-  - 📱  &nbsp;&nbsp; Currently learning **[Flutter](https://flutter.dev/) for Mobile and Web Development 💻**
+  - 📱  &nbsp;&nbsp;&nbsp;&nbsp; Currently learning **[Flutter](https://flutter.dev/) for Mobile and Web Development 💻**
   - 📫 &nbsp;&nbsp; How to reach me https://www.linkedin.com/in/cindinishimoto
   - ⚡ &nbsp;&nbsp; Fun fact: I'm a rock star and a pop diva singer at home! Lol 🎤✨*
 
