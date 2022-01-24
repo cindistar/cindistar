@@ -7,6 +7,6 @@
   - 🎓 &nbsp;&nbsp; MBA in Big Data | FIAP 🎲
   - 📱  &nbsp;&nbsp;&nbsp;&nbsp; Currently learning **[Flutter](https://flutter.dev/) for Mobile and Web Development 💻**
   - 📫 &nbsp;&nbsp; You can reach me on **[LinkedIn](https://www.linkedin.com/in/cindinishimoto)**
-  - ⚡ &nbsp;&nbsp; Fun fact: I'm a rock star and a pop diva singer at home! Lol 🎤*
+  - ⚡ &nbsp;&nbsp; Fun fact: I'm a rock star and a pop diva singer at home! Lol 🎤✨*
 
 
