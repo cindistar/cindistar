@@ -1,7 +1,7 @@
 
 ## Hi, I'm Cindi Nishimoto, a Flutter Developer from São Paulo, Brazil ❤️ <(^_^<) <img align="center" src="https://user-images.githubusercontent.com/45148915/150196899-7ec7aadb-d28c-4aa8-abf1-44a81b82fb0d.png" width="20"  height="20" /> </h1> 
 
- <img align="center" width="1400" height="250" src="https://cdna.artstation.com/p/assets/images/images/032/777/038/original/artem-parkinsun-image102.gif?1607442607">
+ <img align="center" width="1400" height="320" src="https://cdna.artstation.com/p/assets/images/images/032/777/038/original/artem-parkinsun-image102.gif?1607442607">
 
  <img align="right" width="200" height="200" src="cindi_1.png">
 
