@@ -7,9 +7,6 @@
   <img height="180em" src="cindi_1.png">
 </div>
 
-<img align="center" width="1400" height="320" src="https://cdna.artstation.com/p/assets/images/images/032/777/038/original/artem-parkinsun-image102.gif?1607442607">
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Cindi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
   <img align="center" alt="Cindi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
@@ -25,3 +22,5 @@
  <a href = "mailto:cindi_nishi@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![Snake animation](https://github.com/cindistar/cindistar/blob/output/github-contribution-grid-snake.svg)
+
+<img align="center" width="1400" height="500" src="https://cdna.artstation.com/p/assets/images/images/032/777/038/original/artem-parkinsun-image102.gif?1607442607">
