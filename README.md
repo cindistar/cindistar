@@ -6,7 +6,7 @@
   - 📱  &nbsp;&nbsp;&nbsp;&nbsp; Currently working with **[Flutter](https://flutter.dev/)** for **Mobile and Web Development 💻**
   - ⚡ &nbsp;&nbsp; Fun fact: I'm a rock star and a pop diva singer at home! Lol 🎤✨
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/cindistar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cindistar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
