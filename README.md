@@ -3,7 +3,7 @@
 
  <img align="center" width="1400" height="320" src="https://cdna.artstation.com/p/assets/images/images/032/777/038/original/artem-parkinsun-image102.gif?1607442607">
 
- <img align="right" width="200" height="200" src="cindi_1.png">
+ <img align="right" width="180" height="180" src="cindi_1.png">
 
 <div align="left">
   <a href="https://github.com/cindistar">
