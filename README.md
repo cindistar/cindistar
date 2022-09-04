@@ -1,14 +1,16 @@
 
 ## Hi, I'm Cindi Nishimoto, a Flutter Developer from São Paulo, Brazil ❤️ <(^_^<) <img align="center" src="https://user-images.githubusercontent.com/45148915/150196899-7ec7aadb-d28c-4aa8-abf1-44a81b82fb0d.png" width="20"  height="20" /> </h1> 
 
- <img align="center" width="200" height="200" src="cindi_1.png">
+![cyber](https://user-images.githubusercontent.com/45148915/188337526-aabbbef9-a13e-4fe0-9257-22d1bef7662c.gif)
+
+ <img align="right" width="200" height="200" src="cindi_1.png">
 
 <div align="left">
   <a href="https://github.com/cindistar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cindistar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 </div>
-<div style="display: inline_block"><br>
+
   <img align="center" alt="Cindi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
   <img align="center" alt="Cindi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
   <img align="center" alt="Cindi-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
