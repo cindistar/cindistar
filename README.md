@@ -4,7 +4,7 @@
  <div align="center">
   <a href="https://github.com/cindistar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cindistar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="cindi_1.png">
+  <img width="300" height="180" src="cindi_1.png">
 </div>
 
 <div style="display: inline_block"><br>
