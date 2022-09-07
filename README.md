@@ -22,7 +22,7 @@
   <img align="center" alt="Cindi-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   <a href="https://www.linkedin.com/in/cindinishimoto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/cindi_devqueen" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.codewars.com/users/cindi_nishi" target="_blank"><img src="https://img.shields.io/badge/-Code Wars-%23E4405F?style=for-the-badge&logo=codewars&logoColor=white" target="_blank"></a>
   <a href = "mailto:cindi_nishi@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 ![Snake animation](https://github.com/cindistar/cindistar/blob/output/github-contribution-grid-snake.svg)
