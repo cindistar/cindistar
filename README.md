@@ -23,4 +23,6 @@
   <a href="https://www.codewars.com/users/cindi_nishi" target="_blank"><img align="right" height="30" width="80" src="https://img.shields.io/badge/-Code Wars-%23E4405F?style=for-the-badge&logo=codewars&logoColor=white" target="_blank"></a>
   <a href = "mailto:cindi_nishi@hotmail.com"><img align="right" height="30" width="80" src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-![Snake animation](https://github.com/cindistar/cindistar/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/cindistar/cindistar/blob/output/github-contribution-grid-snake.svg)
+
+
