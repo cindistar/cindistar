@@ -19,7 +19,8 @@
   <a href="https://www.linkedin.com/in/cindinishimoto" target="_blank"><img align="right" height="30" width="80" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.codewars.com/users/cindi_nishi" target="_blank"><img align="right" height="30" width="80" src="https://img.shields.io/badge/-Code Wars-%23E4405F?style=for-the-badge&logo=codewars&logoColor=white" target="_blank"></a>
   <a href = "mailto:cindi_nishi@hotmail.com"><img align="right" height="30" width="80" src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  &nbsp; 
+  
+ &nbsp; 
  <div align="left">
   <a href="https://github.com/cindistar">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cindistar&$show_icons=true&include_all_commits=true&count_private=true&theme=buefy"/>
